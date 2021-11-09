@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Kolory](https://michalkapdevelpoer.github.io/BetterScratch/Kolory/index.html).
+[Kolory](Kolory).
 
 There should be whitespace between paragraphs.
 
